@@ -4,6 +4,15 @@ const path = require('path');
 const app = express();
 const port = 8080;
 
+
+
+
+////////////////////////////////////////
+// DEPLOYED LINK: https://swe-5-2-express-middleware-zanec04.onrender.com/ 
+////////////////////////////////////////
+
+
+
 // Data — do not modify
 const quotes = [
   { id: 1, author: 'Marie Curie', topic: 'science', text: 'Nothing in life is to be feared, it is only to be understood.' },
